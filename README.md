@@ -1,6 +1,6 @@
 # Landing-page
 Our Portfolio Project landing page is intended to:
 
-Share information about your project
-Tell the story about yourself as the developer
-Direct traffic to your deployed app, and your github
+1. Share information about our project
+2. Tell the story about ourself as the developer
+3. Direct traffic to our deployed app, and our github
